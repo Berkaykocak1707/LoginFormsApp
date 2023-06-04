@@ -120,15 +120,15 @@ namespace LoginFormsApp
         }
         public void sendmail(string ToAdress, string code)
         {
-            string fromAddress = "berkaytry1@outlook.com";
+            string fromAddress = "changeit@outlook.com";
             string toAddress = ToAdress;
             string subject = "Password reset code."; 
             string body = "Password reset code:" + code; 
 
             string smtpHost = "smtp.office365.com"; 
             int smtpPort = 587; 
-            string smtpUsername = "berkaytry1@outlook.com"; 
-            string smtpPassword = "Deneme123"; 
+            string smtpUsername = "changeit@outlook.com"; 
+            string smtpPassword = "changeit"; 
 
 
             try
