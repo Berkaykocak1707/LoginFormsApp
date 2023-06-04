@@ -1,0 +1,13 @@
+C:\GitHub\LoginFormsApp\LoginFormsApp\obj\Debug\LoginFormsApp.csproj.AssemblyReference.cache
+C:\GitHub\LoginFormsApp\LoginFormsApp\obj\Debug\LoginFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\LoginFormsApp\LoginFormsApp\obj\Debug\LoginFormsApp.LoginForm.resources
+C:\GitHub\LoginFormsApp\LoginFormsApp\obj\Debug\LoginFormsApp.Properties.Resources.resources
+C:\GitHub\LoginFormsApp\LoginFormsApp\obj\Debug\LoginFormsApp.csproj.GenerateResource.cache
+C:\GitHub\LoginFormsApp\LoginFormsApp\obj\Debug\LoginFormsApp.csproj.CoreCompileInputs.cache
+C:\GitHub\LoginFormsApp\LoginFormsApp\bin\Debug\LoginFormsApp.exe.config
+C:\GitHub\LoginFormsApp\LoginFormsApp\bin\Debug\LoginFormsApp.exe
+C:\GitHub\LoginFormsApp\LoginFormsApp\bin\Debug\LoginFormsApp.pdb
+C:\GitHub\LoginFormsApp\LoginFormsApp\obj\Debug\LoginFormsApp.exe
+C:\GitHub\LoginFormsApp\LoginFormsApp\obj\Debug\LoginFormsApp.pdb
+C:\GitHub\LoginFormsApp\LoginFormsApp\obj\Debug\LoginFormsApp.SignUp.resources
+C:\GitHub\LoginFormsApp\LoginFormsApp\obj\Debug\LoginFormsApp.ResetPasswordForn.resources
